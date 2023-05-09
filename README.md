@@ -1,6 +1,6 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) VScode HotKey - Mac
 
-<br>
+---
 
 <!--ts-->
 ## 目錄
@@ -16,13 +16,11 @@
 <!--te-->
 
 ---
-<br>
 
 ## 簡介.
 常用快捷鍵紀錄，附上官方各系統HotKey表．
 
 ---
-<br>
 
 ## 基本
 
@@ -36,7 +34,6 @@
 | Command + Down      | 跳轉到文件結尾   |
 
 ---
-<br>
 
 ## 搜尋
 
@@ -48,7 +45,6 @@
 | Option + Enter      | 選取所有匹配內容 |
 
 ---
-<br>
 
 ## 進階
 
@@ -58,7 +54,6 @@
 | Option + F12 | 查看具體定義内容 |
 
 ---
-<br>
 
 ## 導航
 
@@ -74,7 +69,6 @@
 | Ctrl + Shift + -   | 前進到上一個當前位置         |
 
 ---
-<br>
 
 ## 文件管理
 
@@ -89,7 +83,6 @@
 | Ctrl + Tab           | 跳轉到下一個開啟文件 |
 
 ---
-<br>
 
 ## 測試
 
@@ -102,7 +95,6 @@
 | F10         | 跳過             |
 
 ---
-<br>
 
 ## 終端機
 
@@ -112,14 +104,15 @@
 | Ctrl + Shift + ` | 新建終端機 |
 
 ---
-<br>
 
 ## 參考資料
 - [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings) <br>
 - [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) <br>
 - [Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) <br>
 - [Keyboard shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) <br>
+
 ---
+
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
